@@ -5,7 +5,7 @@ public class Coprime{
 		int t=sc.nextInt();
 		while(t-->0){
 			int n=sc.nextInt();
-			
+			//Euler Totient Function
 			float res=n;\\initialize with n
 			// Consider all prime factors of n and for every prime 
 			// factor i, multiply result with (1 - 1/p) 
