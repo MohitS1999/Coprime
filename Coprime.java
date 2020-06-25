@@ -1,4 +1,5 @@
 import java.util.*;
+//this is also called Euler Totient FUnction
 public class Coprime{
 	public static void main(String[] args){
 		Scanner sc=new Scanner(System.in);
